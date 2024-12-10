@@ -1,0 +1,20 @@
+KalkulatorVetrneEnergije
+
+Aplikacija namenjena izračunu potencialne proizvodnje električne energije, na podani logaciji za izbrano(-e) turbine.
+
+Leto izdelave: 2024
+
+Luka Majstorović
+Niko Ogrizek
+Kristijan Stefanoski
+
+Domača stran: https://url.si/
+Vir podatkov: https://url.si/
+...
+Koda: https://github.com/Majst0rL/KalkulatorVetreneEnergije
+
+Kategorizacija: namizna aplikacija
+
+Oznake: Python, JSON, GitHub, API
+
+Projekt "KalkulatorVeterneEnergije" je interaktivno orodje, zasnovano za ocenjevanje potencialne proizvodnje električne energije iz vetrnih turbin na podlagi izbranih lokacij na zemljevidu. Uporabniki lahko izbirajo med različnimi tipi turbin, dodajajo nove turbine in urejajo obstoječe, pri čemer aplikacija izračuna pričakovano proizvodnjo energije glede na specifične vetrovne pogoje vsake lokacije. Rezultati izračunov vključujejo podrobne podatke o letni proizvodnji energije, kar omogoča natančno analizo in načrtovanje. Končne podatke je možno shraniti in izvoziti v obliki PDF poročila, kar omogoča enostavno deljenje in arhiviranje rezultatov.

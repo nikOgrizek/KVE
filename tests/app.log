@@ -1,0 +1,43 @@
+2024-11-04 10:08:31,941 - app.GUI.calculator_frame - WARNING - Calculation attempt with no coordinates entered
+2024-11-04 10:09:37,855 - app.GUI.calculator_frame - WARNING - Calculation attempt with no coordinates entered
+2024-11-04 10:10:39,478 - app.GUI.calculator_frame - WARNING - Calculation attempt with no coordinates entered
+2024-11-04 18:30:04,214 - app.GUI.turbine_frame - DEBUG - Creating widgets in TurbineFrame
+2024-11-04 18:30:04,232 - app.GUI.turbine_frame - DEBUG - Binding mouse wheel
+2024-11-04 18:30:04,232 - app.GUI.turbine_frame - DEBUG - ScrollableFrame initialized
+2024-11-04 18:30:04,244 - app.GUI.turbine_frame - DEBUG - Data row added in TurbineFrame
+2024-11-04 18:30:04,247 - app.GUI.turbine_frame - DEBUG - Turbine list updated in TurbineFrame
+2024-11-04 18:30:04,247 - app.GUI.turbine_frame - DEBUG - Widgets in TurbineFrame created
+2024-11-04 18:30:04,247 - app.GUI.turbine_frame - DEBUG - TurbineFrame reset
+2024-11-04 18:30:04,247 - app.GUI.turbine_frame - DEBUG - TurbineFrame initialized
+2024-11-04 18:30:04,306 - app.GUI.turbine_frame - DEBUG - Creating widgets in TurbineFrame
+2024-11-04 18:30:04,312 - app.GUI.turbine_frame - DEBUG - Binding mouse wheel
+2024-11-04 18:30:04,312 - app.GUI.turbine_frame - DEBUG - ScrollableFrame initialized
+2024-11-04 18:30:04,316 - app.GUI.turbine_frame - DEBUG - Data row added in TurbineFrame
+2024-11-04 18:30:04,317 - app.GUI.turbine_frame - DEBUG - Turbine list updated in TurbineFrame
+2024-11-04 18:30:04,318 - app.GUI.turbine_frame - DEBUG - Widgets in TurbineFrame created
+2024-11-04 18:30:04,318 - app.GUI.turbine_frame - DEBUG - TurbineFrame reset
+2024-11-04 18:30:04,318 - app.GUI.turbine_frame - DEBUG - TurbineFrame initialized
+2024-11-04 18:30:04,377 - app.GUI.turbine_frame - DEBUG - Creating widgets in TurbineFrame
+2024-11-04 18:30:04,383 - app.GUI.turbine_frame - DEBUG - Binding mouse wheel
+2024-11-04 18:30:04,383 - app.GUI.turbine_frame - DEBUG - ScrollableFrame initialized
+2024-11-04 18:30:04,386 - app.GUI.turbine_frame - DEBUG - Data row added in TurbineFrame
+2024-11-04 18:30:04,386 - app.GUI.turbine_frame - DEBUG - Turbine list updated in TurbineFrame
+2024-11-04 18:30:04,387 - app.GUI.turbine_frame - DEBUG - Widgets in TurbineFrame created
+2024-11-04 18:30:04,387 - app.GUI.turbine_frame - DEBUG - TurbineFrame reset
+2024-11-04 18:30:04,387 - app.GUI.turbine_frame - DEBUG - TurbineFrame initialized
+2024-11-04 18:30:04,448 - app.GUI.turbine_frame - DEBUG - Creating widgets in TurbineFrame
+2024-11-04 18:30:04,455 - app.GUI.turbine_frame - DEBUG - Binding mouse wheel
+2024-11-04 18:30:04,455 - app.GUI.turbine_frame - DEBUG - ScrollableFrame initialized
+2024-11-04 18:30:04,458 - app.GUI.turbine_frame - DEBUG - Data row added in TurbineFrame
+2024-11-04 18:30:04,459 - app.GUI.turbine_frame - DEBUG - Turbine list updated in TurbineFrame
+2024-11-04 18:30:04,459 - app.GUI.turbine_frame - DEBUG - Widgets in TurbineFrame created
+2024-11-04 18:30:04,459 - app.GUI.turbine_frame - DEBUG - TurbineFrame reset
+2024-11-04 18:30:04,459 - app.GUI.turbine_frame - DEBUG - TurbineFrame initialized
+2024-11-04 18:30:04,525 - app.GUI.turbine_frame - DEBUG - Creating widgets in TurbineFrame
+2024-11-04 18:30:04,530 - app.GUI.turbine_frame - DEBUG - Binding mouse wheel
+2024-11-04 18:30:04,530 - app.GUI.turbine_frame - DEBUG - ScrollableFrame initialized
+2024-11-04 18:30:04,533 - app.GUI.turbine_frame - DEBUG - Data row added in TurbineFrame
+2024-11-04 18:30:04,533 - app.GUI.turbine_frame - DEBUG - Turbine list updated in TurbineFrame
+2024-11-04 18:30:04,533 - app.GUI.turbine_frame - DEBUG - Widgets in TurbineFrame created
+2024-11-04 18:30:04,533 - app.GUI.turbine_frame - DEBUG - TurbineFrame reset
+2024-11-04 18:30:04,533 - app.GUI.turbine_frame - DEBUG - TurbineFrame initialized
