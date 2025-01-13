@@ -40,6 +40,7 @@ def calculate_annual_production(wind_data, turbines, height):
 
 def calculate_monthly_production(wind_data, turbines, height):
     hours_per_year = 8760
+    print(hours_per_year)
     hours_per_month = [31 * 24, 28 * 24, 31 * 24, 30 * 24, 31 * 24, 30 * 24, 31 * 24, 31 * 24, 30 * 24, 31 * 24, 30 * 24, 31 * 24]
 
     monthly_production = np.zeros((len(turbines), 12))
